@@ -1,0 +1,4 @@
+{"api_key": "62KmJzyGnHMLksvZ71UNhwN5G",
+"api_key_secret": "c7MX1r8xTvevSWZVMGXtJvTPuc0Q8TAsu3zNiCEcXYxUbj2cJd",
+"access_token": "174323243-nFTSCYNomxkF61KMcUME16OAWPLPEJPwAFR7GNzp",
+"access_token_secret": "tBeLyzRZm3hn5E5ZmjVhLEOa6MbDIyADg5kMGE5BSK68B"}
